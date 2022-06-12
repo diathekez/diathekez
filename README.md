@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Learning Swift.**
 
-- 👨‍💻 Some of my projects are available at [https://bryangranados.com/assets/Project%20Portfolio_BryanGranados.pdf]([https://bryangranados.com/assets/Project%20Portfolio_BryanGranados.pdf](https://www.behance.net/gallery/145445631/Project-Portfolio-2021-2022))
+- 👨‍💻 Some of my projects are available at [https://www.behance.net/gallery/145445631/Project-Portfolio-2021-2022](https://www.behance.net/gallery/145445631/Project-Portfolio-2021-2022)
 
 - 🌐 You can find my website at [https://bryangranados.com/](https://bryangranados.com/)
 
