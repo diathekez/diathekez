@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/diathekez" target="blank"><img src="https://img.shields.io/twitter/follow/diathekez?logo=twitter&style=for-the-badge" alt="diathekez" /></a> </p>
 
-- 🔭 I’m currently working on [a professor review app.](https://www.thisistheurl.com/)
+- 🔭 I’m currently working on [a professor review app.](https://github.com/diathekez/calificatuprofe)
 
 - 🌱 I’m currently learning **React.**
 
