@@ -1,5 +1,5 @@
-<h1 align="center">Greetings, I'm Bryan</h1>
-<h3 align="center">Full-Stack Developer | Brand Designer | Digital Marketer</h3>
+<h1 align="center">Hi, I'm Bryan</h1>
+<h3 align="center">Full-Stack Development | Brand Design | Digital Marketing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diathekez&label=Profile%20views&color=0e75b6&style=flat" alt="diathekez" /> </p>
 
