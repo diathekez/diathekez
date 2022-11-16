@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: **bryan@granados.cc**
 
-- 📄 Check out my [resume]([https://bryangranados.com/assets/BryanGranados_Resume.docx.pdf](https://docs.google.com/document/d/1zKQG4hTqXKYXfBDcCneGZUY3hxKb-HXQ/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true) (open to work!).
+- 📄 Check out my [creative resume](https://resume.bryangranados.com/) (open to work!).
 
 - ⚡ Fun fact **My family has three cats all named Chicken.**
 
