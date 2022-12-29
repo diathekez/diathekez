@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an interactive choose-your-own-adventure web app.
 
-- 🌱 I’m currently learning **Electron.**
+- 🌱 I’m currently learning **PostgreSQL.**
 
 - 👯 I’m looking for a study buddy **I'd like to have someone to pair program with.**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: **bryan@granados.cc**
 
-- 📄 Check out my [creative resume](https://resume.bryangranados.com/) (open to work!).
+- 📄 Check out my [resume](https://docs.google.com/document/d/1zKQG4hTqXKYXfBDcCneGZUY3hxKb-HXQ/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true) (open to work!).
 
 - ⚡ Fun fact **My family has three cats all named Chicken.**
 
