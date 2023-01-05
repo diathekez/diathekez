@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on an interactive choose-your-own-adventure web app.
 
-- 🌱 I’m currently learning **PostgreSQL.**
+- 🌱 I’m currently learning: **PostgreSQL.**
 
-- 👯 I’m looking for a study buddy **I'd like to have someone to pair program with.**
+- 👯 I’m looking for a study buddy: **I'd like to have someone to pair program with.**
 
-- 🤝 I’m looking for help with **learning how to use styled-components better.**
+- 🤝 I’m looking for help with: **learning how to use styled-components better.**
 
 - 👨‍💻 Some of my projects are available on [Behance](https://www.behance.net/gallery/145445631/Project-Portfolio-2021-2022)
 
@@ -25,7 +25,7 @@
 
 - 📄 Check out my [resume](https://docs.google.com/document/d/1WBX5wBYUy0g74HIeNN9IZ9-nuYXrURyT/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true) (open to work!).
 
-- ⚡ Fun fact **My family has three cats all named Chicken.**
+- ⚡ Fun fact: **My family has three cats all named Chicken.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
