@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bryan</h1>
-<h3 align="center">Full-Stack Development | Brand Design | Digital Marketing</h3>
+<h3 align="center">React | Node | Express | MongoDB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diathekez&label=Profile%20views&color=0e75b6&style=flat" alt="diathekez" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/diathekez" target="blank"><img src="https://img.shields.io/twitter/follow/diathekez?logo=twitter&style=for-the-badge" alt="diathekez" /></a> </p>
 
-- 🔭 I’m currently working on an interactive choose-your-own-adventure web app.
+- 🔭 I’m currently working on a cat tracker web app.
 
 - 🌱 I’m currently learning: **PostgreSQL.**
 
