@@ -13,7 +13,7 @@
 
 - 👯 I’m looking for a study buddy: **I'd like to have someone to pair program with.**
 
-- 🤝 I’m looking for help with: **learning how to use styled-components better.**
+- 🤝 I’m looking for help with: **learning more about TypeScript.**
 
 - 👨‍💻 Some of my projects are available on [Behance](https://www.behance.net/gallery/145445631/Project-Portfolio-2021-2022)
 
