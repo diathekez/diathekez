@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/diathekez" target="blank"><img src="https://img.shields.io/twitter/follow/diathekez?logo=twitter&style=for-the-badge" alt="diathekez" /></a> </p>
 
-- 🔭 I’m currently working on a cat tracker web app.
+- 🔭 I’m working on a cat tracker web app.
 
 - 🌱 I’m currently learning: **PostgreSQL.**
 
-- 👯 I’m looking for a study buddy: **I'd like to have someone to pair program with.**
+- 👯 I’m looking for a study buddy: **I'd like to have someone to pair program with using Zed.**
 
-- 🤝 I’m looking for help with: **learning more about TypeScript.**
+- 🤝 I’m looking for help with: **learning more about TypeScript (refer to above).**
 
 - 👨‍💻 Some of my projects are available on [Behance](https://www.behance.net/gallery/145445631/Project-Portfolio-2021-2022)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: **bryan@granados.cc**
 
-- 📄 Check out my [resume](https://docs.google.com/document/d/1WBX5wBYUy0g74HIeNN9IZ9-nuYXrURyT/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true) (open to work!).
+- 📄 Check out my [resume](https://docs.google.com/document/d/190vDsqKsOGnbB-XVzcXKBcobig7bfidf/edit?usp=sharing&ouid=100244887075527874549&rtpof=true&sd=true) (open to work!).
 
 - ⚡ Fun fact: **My family has three cats all named Chicken.**
 
