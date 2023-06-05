@@ -9,13 +9,7 @@
 
 - 🔭 I’m working on a cat tracker web app.
 
-- 🌱 I’m currently learning: **PostgreSQL.**
-
-- 👯 I’m looking for a study buddy: **I'd like to have someone to pair program with using Zed.**
-
-- 🤝 I’m looking for help with: **learning more about TypeScript (refer to above).**
-
-- 👨‍💻 Some of my projects are available on [Behance](https://www.behance.net/gallery/145445631/Project-Portfolio-2021-2022)
+- 👨‍💻 Some of my projects are available on [Behance](#) - UPDATE IN PROGRESS.
 
 - 🌐 You can find my website [here](https://bryangranados.com/)
 
